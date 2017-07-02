@@ -1,0 +1,3 @@
+c:\users\kisebwe\documents\visual studio 2017\Projects\App2\App2\App2\obj\Debug\App2.csprojResolveAssemblyReference.cache
+c:\users\kisebwe\documents\visual studio 2017\Projects\App2\App2\App2\obj\Debug\App2.MainPage.xaml.g.cs
+c:\users\kisebwe\documents\visual studio 2017\Projects\App2\App2\App2\obj\Debug\App2.App.xaml.g.cs
